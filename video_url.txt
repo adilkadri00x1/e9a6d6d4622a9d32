@@ -1,0 +1,5 @@
+Player URL:
+https://adilkadri00x1.github.io/player/?list=https://raw.githubusercontent.com/adilkadri00x1/e9a6d6d4622a9d32/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/adilkadri00x1/e9a6d6d4622a9d32/refs/heads/master/github_master.m3u8
